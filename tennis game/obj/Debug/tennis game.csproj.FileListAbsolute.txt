@@ -1,0 +1,18 @@
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tenis oyunu\bin\Debug\tenis oyunu.exe.config
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tenis oyunu\bin\Debug\tenis oyunu.exe
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tenis oyunu\bin\Debug\tenis oyunu.pdb
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tenis oyunu\obj\Debug\tennisGame.Form1.resources
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tenis oyunu\obj\Debug\tennisGame.Properties.Resources.resources
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tenis oyunu\obj\Debug\tennis game.csproj.GenerateResource.Cache
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tenis oyunu\obj\Debug\tenis oyunu.exe
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tenis oyunu\obj\Debug\tenis oyunu.pdb
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tenis oyunu\obj\Debug\tennis game.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tennis game\bin\Debug\tennis game.exe.config
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tennis game\bin\Debug\tennis game.exe
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tennis game\bin\Debug\tennis game.pdb
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tennis game\obj\Debug\tennis game.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tennis game\obj\Debug\tennisGame.Form1.resources
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tennis game\obj\Debug\tennisGame.Properties.Resources.resources
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tennis game\obj\Debug\tennis game.csproj.GenerateResource.Cache
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tennis game\obj\Debug\tennis game.exe
+C:\Users\R\Desktop\VStudio projects\tenis oyunu\tennis game\obj\Debug\tennis game.pdb
